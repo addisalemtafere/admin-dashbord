@@ -60,12 +60,12 @@ The `index.html` file includes links to the main JavaScript file and Ionicons li
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/addisalemtafere/admin-dashbord.git
    ```
 
 2. **Navigate to the project directory**:
    ```bash
-   cd <project-directory>
+   cd ADMIN-CSS
    ```
 
 3. **Open `index.html` in a web browser** to view the dashboard.
