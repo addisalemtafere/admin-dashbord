@@ -1,5 +1,5 @@
 
-# Responsive Admin Dashboard | Korsat X Parmaga
+# Responsive Admin Dashboard 
 
 ![Screenshot of the Dashboard](assets/imgs/Screenshot%202024-06-27%20113049.png)
 
