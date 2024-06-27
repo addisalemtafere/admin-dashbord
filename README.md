@@ -85,7 +85,7 @@ You can customize the dashboard by modifying the CSS and JavaScript files locate
 
 ## Contact
 
-For any inquiries or support, please contact [your email].
+For any inquiries or support, please contact addisalem12@gmail.com.
 
 ---
 
